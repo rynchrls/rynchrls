@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **rynchrls18@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/lmGwTxZpO](https://resume.io/r/lmGwTxZpO)
-
 - ⚡ Fun fact **I can also do human beatboxing**
 
 <h3 align="left">Connect with me:</h3>
