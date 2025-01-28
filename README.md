@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynchrls&label=Profile%20views&color=0e75b6&style=flat" alt="rynchrls" /> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [https://rynchrls.github.io/ry.io1/](https://rynchrls.github.io/ry.io1/)
+- 👨‍💻 All of my projects are available at [https://rynchrls.github.io/portfolio)
 
-- 💬 Ask me about **React, Typescript and Frontend Development**
+- 💬 Ask me about **React, Typescript, NodeJS and Frontend Development**
 
 - 📫 How to reach me **rynchrls18@gmail.com**
 
