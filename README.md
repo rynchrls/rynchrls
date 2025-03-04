@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ryancharlesalcaraz.vercel.app)
 
-- 💬 Ask me about **React, Typescript, NodeJS and Frontend Development**
+- 💬 Ask me about **React, Typescript, and Full Stack Development**
 
 - 📫 How to reach me **rynchrls18@gmail.com**
 
