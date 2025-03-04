@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [https://ryancharlesalcaraz.vercel.app)
+- 👨‍💻 All of my projects are available at https://ryancharlesalcaraz.vercel.app
 
 - 💬 Ask me about **React, Typescript, and Full Stack Development**
 
