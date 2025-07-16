@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynchrls&label=Profile%20views&color=0e75b6&style=flat" alt="rynchrls" /> </p>
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at https://ryancharlesalcaraz.vercel.app
 
