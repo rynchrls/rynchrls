@@ -135,7 +135,7 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ### 💡 **Top Languages**
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rynchrls&show_icons=true&locale=en" alt="rynchrls" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rynchrls&" alt="rynchrls" />
 </p>
 
 ### 🏆 **GitHub Achievements**
