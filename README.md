@@ -116,17 +116,6 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rynchrls&theme=flat&no-frame=true&no-bg=true&margin-w=10&format=png" />
-</p>
-
-
-
-
-
-
----
-
 <h3 align="center">✨ Thanks for visiting my profile — let's build something amazing!</h3>
 
 
