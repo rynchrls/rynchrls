@@ -116,17 +116,10 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ---
 
-<p>
-  <img align="left" src="https://stats.dooboo.io/api/top-langs?username=rynchrls&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rynchrls&theme=flat&no-frame=true&no-bg=true&margin-w=10&format=png" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://stats.dooboo.io/api/github-stats?username=rynchrls" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=rynchrls" alt="GitHub Streak" />
-</p>
 
 
 
