@@ -135,7 +135,7 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ### 💡 **Top Languages**
 <p align="center">
-  <img align="left" src="https://stats.dooboo.io/api/top-langs?username=rynchrls&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rynchrls&show_icons=true&locale=en&layout=compact" alt="rynchrls" />
 </p>
 
 ### 🏆 **GitHub Achievements**
