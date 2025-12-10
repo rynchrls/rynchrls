@@ -116,32 +116,18 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ---
 
-# 📊 **GitHub Stats & Activity**
-
-### 🔥 **Streaks**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rynchrls&theme=default&hide_border=false" />
+<p>
+  <img align="left" src="https://stats.dooboo.io/api/top-langs?username=rynchrls&layout=compact" alt="Top Languages" />
 </p>
 
-### 📈 **Contributions & Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rynchrls&theme=minimal" />
+<p>
+  &nbsp;<img align="center" src="https://stats.dooboo.io/api/github-stats?username=rynchrls" alt="GitHub Stats" />
 </p>
 
-### 🧮 **Commit & Repo Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rynchrls&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=rynchrls" alt="GitHub Streak" />
 </p>
 
-### 💡 **Top Languages**
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rynchrls&" alt="rynchrls" />
-</p>
-
-### 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rynchrls&theme=flat&row=1&column=6&margin-w=10&margin-h=10" />
-</p>
 
 
 
