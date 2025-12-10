@@ -1,1 +1,111 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://rynchrls.github.io/ry.io1/) <h1 align="center">Hi 👋, I'm Ryan Charles Alcaraz</h1> <h3 align="center">A Passionate Full Stack Developer from Philippines</h3> <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynchrls&label=Profile%20views&color=0e75b6&style=flat" alt="rynchrls" /> </p> - 🌱 I’m currently learning **AI/ML** - 👨‍💻 All of my projects are available at https://ryancharlesalcaraz.vercel.app - 💬 Ask me about **React, Typescript, and Full Stack Development** - 📫 How to reach me **rynchrls18@gmail.com** - ⚡ Fun fact **I can also do human beatboxing** <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/ryancharlesalcaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryancharlesalcaraz" height="30" width="40" /></a> <a href="https://fb.com/ryancharlesalacaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryancharlesalacaraz" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rynchrls&show_icons=true&locale=en&layout=compact" alt="rynchrls" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rynchrls&show_icons=true&locale=en" alt="rynchrls" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rynchrls&" alt="rynchrls" /></p>
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://rynchrls.github.io/ry.io1/)
+
+<h1 align="center">Hi 👋, I'm Ryan Charles Alcaraz</h1>
+<h3 align="center">Full Stack Developer (Backend-Focused) • System Design • Cloud • Distributed Systems</h3>
+
+<p align="center">
+  <a href="https://github.com/rynchrls">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=0ad1ff&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+from+the+Philippines;Backend+Engineer+focused+on+Scalable+Systems;Event-Driven+Architecture+%7C+Microservices+%7C+Cloud+Infra;Passionate+about+System+Design+and+Performance+Optimization;Always+Learning+AI%2FML+and+Distributed+Systems">
+  </a>
+</p>
+
+---
+
+## 🚀 **About Me**
+
+I’m a **Full Stack Developer** specializing in backend-heavy systems, cloud infrastructure, and scalable architectures.  
+I love building high-performance applications, integrating distributed systems, and optimizing complex backend workflows.
+
+🔧 Strong with JavaScript, TypeScript, Python, Node.js, React, FastAPI, and cloud technologies.  
+📈 Currently exploring deeper into **AI/ML**, **system design**, and **distributed systems**.
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Languages**
+JavaScript • TypeScript • Python • HTML • CSS
+
+### **Frameworks / Libraries**
+React • Next.js • Node.js • Express.js • FastAPI • Tailwind • Vitest • Jest
+
+### **Databases / ORM**
+MongoDB • PostgreSQL • Supabase • Prisma • SQLAlchemy
+
+### **Cloud & DevOps**
+AWS (EC2, S3, CloudFront, RDS) • Docker  
+CI/CD (GitHub Actions) • Serverless • Render • Vercel
+
+### **Tools**
+Git • Postman • Jira • Trello • Swagger • Figma • Redis • Kafka
+
+### **System Design**
+Microservices • Monolith • Event-Driven Architecture  
+REST • SOAP • GraphQL  
+Load Balancing • Caching • Sharding • Database Schema Design
+
+---
+
+# 🏷️ **Tech Stack Badges**
+
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
+
+### **Cloud / DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff)
+
+### **Message Brokers / Caching**
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-026AA7?logo=trello&logoColor=fff)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
+
+---
+
+## 📚 **Currently Learning**
+- Machine Learning / Applied AI  
+- Distributed Systems  
+- Advanced System Design  
+
+---
+
+## 🌐 **Connect with Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ryancharlesalcaraz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ryancharlesalacaraz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+</p>
