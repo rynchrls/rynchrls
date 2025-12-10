@@ -13,11 +13,11 @@
 
 ## 🚀 **About Me**
 
-I’m a **Full Stack Developer** specializing in backend-heavy systems, cloud infrastructure, and scalable modern architectures.  
-I enjoy building high-performance applications, optimizing complex systems, and exploring distributed technologies.
+I’m a **Full Stack Developer** specializing in backend-heavy systems, cloud infrastructure, and scalable architectures.  
+I love building high-performance applications, integrating distributed systems, and optimizing complex backend workflows.
 
-🔧 I work with JavaScript, TypeScript, Python, Node.js, React, FastAPI, and cloud technologies.  
-📈 Currently expanding my knowledge in **AI/ML**, **system design**, and **distributed systems**.
+🔧 Strong with JavaScript, TypeScript, Python, Node.js, React, FastAPI, and cloud technologies.  
+📈 Currently exploring deeper into **AI/ML**, **system design**, and **distributed systems**.
 
 ---
 
@@ -43,6 +43,52 @@ Git • Postman • Jira • Trello • Swagger • Figma • Redis • Kafka
 Microservices • Monolith • Event-Driven Architecture  
 REST • SOAP • GraphQL  
 Load Balancing • Caching • Sharding • Database Schema Design
+
+---
+
+# 🏷️ **Tech Stack Badges**
+
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
+
+### **Cloud / DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff)
+
+### **Message Brokers / Caching**
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-026AA7?logo=trello&logoColor=fff)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
 
@@ -99,27 +145,6 @@ Load Balancing • Caching • Sharding • Database Schema Design
 
 ---
 
-## 🧰 **Languages & Tools**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-</p>
-
----
-
 <h3 align="center">✨ Thanks for visiting my profile — let's build something amazing!</h3>
 
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rynchrls" />
-</p>
 
