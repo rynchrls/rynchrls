@@ -1,5 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://rynchrls.github.io/ry.io1/)
-
 <h1 align="center">Hi 👋, I'm Ryan Charles Alcaraz</h1>
 <h3 align="center">Full Stack Developer (Backend-Focused) • System Design • Cloud • Distributed Systems</h3>
 
